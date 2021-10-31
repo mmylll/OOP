@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/project/OOP/lab7/bigNum.cpp
+iostream
+-
+cstring
+-
+fstream
+-
+bigNum.h
+E:/project/OOP/lab7/bigNum.h
+
+E:/project/OOP/lab7/bigNum.h
+istream
+-
+
+E:/project/OOP/lab7/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+cstring
+-
+bigNum.h
+E:/project/OOP/lab7/bigNum.h
+

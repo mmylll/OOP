@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/project/OOP/lab4/gameBoard.h
+lattice.h
+E:/project/OOP/lab4/lattice.h
+stdlib.h
+-
+vector
+-
+
+E:/project/OOP/lab4/lattice.h
+
+E:/project/OOP/lab4/main.cpp
+iostream
+-
+gameBoard.h
+E:/project/OOP/lab4/gameBoard.h
+conio.h
+-
+iomanip
+-
+fstream
+-
+iostream
+-
+stdlib.h
+-
+
